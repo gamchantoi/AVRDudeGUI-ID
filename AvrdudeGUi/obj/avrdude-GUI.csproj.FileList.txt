@@ -1,0 +1,11 @@
+.\avrdude-GUI.exe.config
+bin\Debug\avrdude-GUI.exe.config
+bin\Debug\avrdude-GUI.exe
+bin\Debug\avrdude-GUI.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\avrdudeGUI.ErrorMessageForm.resources
+obj\Debug\avrdudeGUI.MainForm.resources
+obj\Debug\avrdudeGUI.Properties.Resources.resources
+obj\Debug\avrdude-GUI.csproj.GenerateResource.Cache
+obj\Debug\avrdude-GUI.exe
+obj\Debug\avrdude-GUI.pdb

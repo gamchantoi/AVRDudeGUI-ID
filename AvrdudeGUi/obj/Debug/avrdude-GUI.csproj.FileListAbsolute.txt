@@ -1,0 +1,42 @@
+H:\modempass\avrdude-GUI-1.0.5-src\avrdude-GUI\bin\Debug\avrdude-GUI.exe.config
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.exe.config
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.exe
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.pdb
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.csprojResolveAssemblyReference.cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdudeGUI.ErrorMessageForm.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdudeGUI.MainForm.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdudeGUI.Properties.Resources.resources
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.csproj.GenerateResource.Cache
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.exe
+G:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.pdb
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.exe.config
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.exe
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.pdb
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.exe
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.pdb
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdudeGUI.ErrorMessageForm.resources
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdudeGUI.MainForm.resources
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdudeGUI.Properties.Resources.resources
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.csproj.GenerateResource.Cache
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.csprojResolveAssemblyReference.cache
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.exe.manifest
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\bin\Debug\avrdude-GUI.application
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.exe.manifest
+I:\Users\Gamchantoi\Documents\Visual Studio 2010\avrdude-GUI\obj\Debug\avrdude-GUI.application
+D:\imageprock\Avrdude-gui\bin\Debug\avrdude-GUI.exe.config
+D:\imageprock\Avrdude-gui\obj\Debug\avrdude-GUI.exe
+D:\imageprock\Avrdude-gui\obj\Debug\avrdude-GUI.pdb
+D:\imageprock\Avrdude-gui\bin\Debug\avrdude-GUI.exe.manifest
+D:\imageprock\Avrdude-gui\bin\Debug\avrdude-GUI.application
+D:\imageprock\Avrdude-gui\bin\Debug\avrdude-GUI.exe
+D:\imageprock\Avrdude-gui\bin\Debug\avrdude-GUI.pdb
+D:\imageprock\Avrdude-gui\obj\Debug\avrdude-GUI.csprojResolveAssemblyReference.cache
+D:\imageprock\Avrdude-gui\obj\Debug\avrdudeGUI.ErrorMessageForm.resources
+D:\imageprock\Avrdude-gui\obj\Debug\avrdudeGUI.MainForm.resources
+D:\imageprock\Avrdude-gui\obj\Debug\avrdudeGUI.Properties.Resources.resources
+D:\imageprock\Avrdude-gui\obj\Debug\avrdude-GUI.csproj.GenerateResource.Cache
+D:\imageprock\Avrdude-gui\obj\Debug\avrdude-GUI.exe.manifest
+D:\imageprock\Avrdude-gui\obj\Debug\avrdude-GUI.application
+D:\imageprock\Avrdude-gui\AvrdudeGUi\bin\Debug\avrdude-GUI.exe.config
+D:\imageprock\Avrdude-gui\AvrdudeGUi\obj\Debug\avrdude-GUI.exe
+D:\imageprock\Avrdude-gui\AvrdudeGUi\obj\Debug\avrdude-GUI.pdb
